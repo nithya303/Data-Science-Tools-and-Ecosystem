@@ -1,1 +1,1 @@
-**Data Science Course Projects**
+**IBM Data Science Capstone Project Scripts and Slideshow**
